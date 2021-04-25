@@ -13,6 +13,8 @@ spambot python
 # To install python3 -
 sudo apt update
 sudo apt install python3
+# To install git -
+sudo apt-get install git
 # To install pip3 -
 sudo apt install python3-pip
 # To install libraries -
