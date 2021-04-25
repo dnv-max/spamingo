@@ -11,10 +11,12 @@ spambot python
   
 ```bash
 # To install python3 -
+sudo apt update
 sudo apt install python3
 # To install pip3 -
-
+sudo apt install python3-pip
 # To install libraries -
-
+pip3 install python-time
+pip3 install pyautogui
 
 ```
