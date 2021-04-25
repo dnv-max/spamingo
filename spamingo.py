@@ -1,6 +1,6 @@
-import typewrite from pyautogui
-import press from pyautogui
-import sleep from time
+import typewrite
+import press
+import sleep
 a = int(input("enter the number of seconds to start the script : "))
 b = int(input("number of messages to spam : "))
 c = str(input("enter the message to spam"))
