@@ -45,4 +45,4 @@ enter the number of seconds between each  message (keep it 0 for fastest spam)  
 
 ```
 <h2>Windows</h2>
-<p>Would be available soon , shayad :P</p>
+<p>To lazy to check , if you find a way to run it on windows let me know in my dm's ;p </p>
