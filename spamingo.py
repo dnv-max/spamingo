@@ -1,4 +1,3 @@
-import pyautogui , time
 a = int(input("enter the number of seconds to start the script : "))
 b = int(input("number of messages to spam : "))
 c = str(input("enter the message to spam"))
