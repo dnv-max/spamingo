@@ -20,6 +20,7 @@ pip3 install python-time
 pip3 install pyautogui
 ```
 <h1>Usage</h1>
+<h2>Ubuntu/linux<h2>
 <p>
   To use the tool follow the steps below
   </p>
@@ -27,5 +28,18 @@ pip3 install pyautogui
 ```bash
 # Installing the repository -
 git clone https://github.com/dnv-max/spammingo
+# Go to the directory -
+cd spamingo
+# Run the script -
+python3 spamingo
+# Fill the details asked -
+┌──(kali㉿kali)-[~/spamingo]
+└─$ python3 spamingo.py
+enter the number of seconds to start the script(time you needto change the window) : 5
+number of messages to spam : 1000
+enter the message to spam : hi
+enter the number of seconds between each  message (keep it 0 for fastest spam)  : 0
+# Now quickly change the window to where you have to spam -
 
 ```
+<h2>Windows</h2>
