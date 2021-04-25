@@ -45,4 +45,4 @@ enter the number of seconds between each  message (keep it 0 for fastest spam)  
 
 ```
 <h2>Windows</h2>
-<p>Would be available soon</p>
+<p>Would be available soon , shayad :P</p>
