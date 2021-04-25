@@ -5,3 +5,16 @@ spambot python
   </p>
  
 <h1>Requirments</h1>
+<p>
+  To download the requirements follow the steps below:
+  </p>
+  
+```bash
+# To install python3 -
+sudo apt install python3
+# To install pip3 -
+
+# To install libraries -
+
+
+```
