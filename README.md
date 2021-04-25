@@ -18,5 +18,14 @@ sudo apt install python3-pip
 # To install libraries -
 pip3 install python-time
 pip3 install pyautogui
+```
+<h1>Usage</h1>
+<p>
+  To use the tool follow the steps below
+  </p>
+
+```bash
+# Installing the repository -
+git clone https://github.com/dnv-max/spammingo
 
 ```
