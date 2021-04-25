@@ -22,7 +22,7 @@ pip3 install python-time
 pip3 install pyautogui
 ```
 <h1>Usage</h1>
-<h2>Ubuntu/linux<h2>
+<h2>Ubuntu/linux</h2>
 <p>
   To use the tool follow the steps below
   </p>
