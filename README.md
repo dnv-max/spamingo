@@ -33,7 +33,7 @@ git clone https://github.com/dnv-max/spammingo
 # Go to the directory -
 cd spamingo
 # Run the script -
-python3 spamingo
+python3 spamingo.py
 # Fill the details asked -
 ┌──(kali㉿kali)-[~/spamingo]
 └─$ python3 spamingo.py
