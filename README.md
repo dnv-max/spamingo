@@ -37,6 +37,16 @@ python3 spamingo.py
 # Fill the details asked -
 ┌──(kali㉿kali)-[~/spamingo]
 └─$ python3 spamingo.py
+ _  ___           _                 _       _     
+| |/ (_)_ __   __| | __ _  ___ __ _| |_ ___| |__  
+| ' /| | '_ \ / _` |/ _` |/ __/ _` | __/ __| '_ \ 
+| . \| | | | | (_| | (_| | (_| (_| | || (__| | | |
+|_|\_\_|_| |_|\__,_|\__,_|\___\__,_|\__\___|_| |_|
+  
+  
+  
+  
+  
 enter the number of seconds to start the script(time you needto change the window) : 5
 number of messages to spam : 1000
 enter the message to spam : hi
